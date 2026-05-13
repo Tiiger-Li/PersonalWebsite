@@ -1,10 +1,10 @@
 ---
 layout: default
 title: PDF Viewer
-permalink: /pdf/
+permalink: /resume/
 ---
 
-<h1>My PDF</h1>
+<h1>My resume</h1>
 
 <iframe
     src="{{ '/assets/Resume.pdf' | relative_url }}"
